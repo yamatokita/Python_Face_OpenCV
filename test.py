@@ -1,0 +1,1 @@
+print("Hi " + input("Say something: "))
